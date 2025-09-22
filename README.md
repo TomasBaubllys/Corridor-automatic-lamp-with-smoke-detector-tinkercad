@@ -61,7 +61,7 @@ The system continuously monitors the sensors and responds as follows:
 ---
 
 ## Usage
-You can either open the provided wiring diagram or explore the live Tinkercad project.
+You can either create the provided wiring diagram or explore the live Tinkercad project.
 
 1. Connect the hardware according to the pinout table.
    For more details, refer to the [Wiring Diagram (PDF)](wirring.pdf)  
