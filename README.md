@@ -61,18 +61,14 @@ The system continuously monitors the sensors and responds as follows:
 ---
 
 ## Usage
-Use the 
-
-or## Usage
 You can either open the provided wiring diagram or explore the live Tinkercad project.
 
-1. Connect the hardware according to the pinout table.  
+1. Connect the hardware according to the pinout table.
    For more details, refer to the [Wiring Diagram (PDF)](wirring.pdf)  
-   or view the project on [Tinkercad](https://www.tinkercad.com/things/inF08CLtjdp-corridor-automatic-lamp-with-smoke-detector?sharecode=2ZnDAHdU0eUikj-b9LfzPR57jI1qgf9tkYdIz54yzns).  
-
-2. Install the [Adafruit NeoPixel library](https://github.com/adafruit/Adafruit_NeoPixel) in Arduino IDE.  
-3. Upload the code to your Arduino board.  
-4. Observe the LED ring and buzzer respond to smoke, motion, and light conditions. 
+   or view the project on [Tinkercad](https://www.tinkercad.com/things/inF08CLtjdp-corridor-automatic-lamp-with-smoke-detector?sharecode=2ZnDAHdU0eUikj-b9LfzPR57jI1qgf9tkYdIz54yzns).
+2. Install the [Adafruit NeoPixel library](https://github.com/adafruit/Adafruit_NeoPixel) in Arduino IDE.
+3. Upload the code to your Arduino board.
+4. Observe the LED ring and buzzer respond to smoke, motion, and light conditions.
 
 ---
 
