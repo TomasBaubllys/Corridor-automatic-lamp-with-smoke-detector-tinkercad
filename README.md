@@ -31,15 +31,7 @@ The system continuously monitors the sensors and responds as follows:
 
 ## Hardware Setup
 
-| Component              | Pin       |	     |
-|------------------------|-----------|-------|
-| Photoresistor           | A5       |INPUT  |
-| Smoke Detector          | A1       |INPUT  |
-| PIR Motion Sensor       | 7        |INPUT  |
-| Piezo Buzzer            | 2        |OUTPUT |
-| NeoPixel LED Ring       | 6        |OUTPUT |
-
-- NeoPixel Ring contains **12 LEDs**.
+- You can view or download the component list here: [partslist.csv](partslist.csv)
 
 ## Circuit Diagram
 ![Circuit Diagram](corridor_automatic_lamp_with_smoke_detector.png)
