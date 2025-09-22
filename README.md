@@ -43,6 +43,16 @@ The system continuously monitors the sensors and responds as follows:
 - Written in **Arduino C++**.
 - Uses the **Adafruit NeoPixel library** to control the LED ring.  
 
+## Parameters Explanation
+
+- `PHOTO_RES_THRESHOLD_VAL` – (**arbitrary**) threshold value for ambient light detection.
+- `SMOKE_DET_THRESHOLD_VAL` – (**arbitrary**) threshold value for smoke detection.
+- `NUM_OF_LEDS` – number of LEDs in NeoPixel ring.
+- `LED_ALARM_*` – RGB color for alarm state.
+- `LED_ON_*` – RGB color for normal operation.
+- `DELAY` – loop delay in milliseconds.
+- `*_PIN` - component pin numbers.
+
 ### Key Functions
 
 - `setup()` – Initializes serial communication, sensor pins, and NeoPixel ring.  
