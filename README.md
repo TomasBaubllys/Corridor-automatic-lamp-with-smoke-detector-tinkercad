@@ -1,7 +1,7 @@
 # Smart Safety System with Arduino and NeoPixel Ring
 
 **Author:** Tomas Baublys  
-**Course:** Robotics, 3rd Year  
+**Course:** Introduction to robotics  
 
 ---
 
@@ -31,13 +31,13 @@ The system continuously monitors the sensors and responds as follows:
 
 ## Hardware Setup
 
-| Component              | Pin       |
-|------------------------|----------|
-| Photoresistor           | A5       |
-| Smoke Detector          | A1       |
-| PIR Motion Sensor       | 7        |
-| Piezo Buzzer            | 2        |
-| NeoPixel LED Ring       | 6        |
+| Component              | Pin       |	     |
+|------------------------|-----------|-------|
+| Photoresistor           | A5       |INPUT  |
+| Smoke Detector          | A1       |INPUT  |
+| PIR Motion Sensor       | 7        |INPUT  |
+| Piezo Buzzer            | 2        |OUTPUT |
+| NeoPixel LED Ring       | 6        |OUTPUT |
 
 - NeoPixel Ring contains **12 LEDs**.
 
@@ -57,7 +57,7 @@ The system continuously monitors the sensors and responds as follows:
 
 ## Usage
 
-1. Connect the hardware according to the pinout table.
+1. Connect the hardware according to the pinout table or for more details refer to wirring.pdf.
 2. Install the [Adafruit NeoPixel library](https://github.com/adafruit/Adafruit_NeoPixel) in Arduino IDE.
 3. Upload the code to your Arduino board.
 4. Observe the LED ring and buzzer respond to smoke, motion, and light conditions.
