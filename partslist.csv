@@ -1,0 +1,9 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"R1",1," Photoresistor"
+"R2",1,"10 kΩ Resistor"
+"PIR1",1," PIR Sensor"
+"GAS1",1," Gas Sensor"
+"R15",1,"1 kΩ Resistor"
+"PIEZO1",1," Piezo"
+"RING1",1," NeoPixel Ring 12"
