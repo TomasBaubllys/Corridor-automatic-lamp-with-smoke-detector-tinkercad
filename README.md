@@ -41,6 +41,9 @@ The system continuously monitors the sensors and responds as follows:
 
 - NeoPixel Ring contains **12 LEDs**.
 
+## Circuit Diagram
+![Circuit Diagram](corridor_automatic_lamp_with_smoke detector.png)
+
 ---
 
 ## Software
