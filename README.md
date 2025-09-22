@@ -60,7 +60,7 @@ The system continuously monitors the sensors and responds as follows:
 
 ## Usage
 
-1. Connect the hardware according to the pinout table or for more details refer to wirring.pdf.
+1. Connect the hardware according to the pinout table or for more details refer to ![Wirring diagram](wirring.pdf).
 2. Install the [Adafruit NeoPixel library](https://github.com/adafruit/Adafruit_NeoPixel) in Arduino IDE.
 3. Upload the code to your Arduino board.
 4. Observe the LED ring and buzzer respond to smoke, motion, and light conditions.
